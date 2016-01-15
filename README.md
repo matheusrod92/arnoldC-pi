@@ -103,7 +103,11 @@ java seucodigo
 
 ## Referências
 [1] PI [https://pt.wikipedia.org/wiki/Pi](https://pt.wikipedia.org/wiki/Pi)
+
 [2] ArnoldC [https://github.com/lhartikk/ArnoldC](https://github.com/lhartikk/ArnoldC)
+
 [3] Wiki ArnoldC [https://github.com/lhartikk/ArnoldC/wiki/ArnoldC](https://github.com/lhartikk/ArnoldC/wiki/ArnoldC)
+
 [4] Weirdest Programming Languages [http://www.hongkiat.com/blog/bizarre-insane-programming-languages/](http://www.hongkiat.com/blog/bizarre-insane-programming-languages/)
+
 [5] [HASTA LA VISTA, BABY :sunglasses:](https://www.youtube.com/watch?v=Hhm7aWp8gvc)
